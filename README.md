@@ -1,6 +1,6 @@
 # Traffic-Sign-Recognition-using-transfer-learning-and-Adversarial-Attacks
  
-With  the  rapid  development  of  technology, automobiles  have  become  an  essential  asset  in  our  day-to-day lives.  One  of  the  more  important  researches  is  *Traffic  Signs Recognition  (TSR)*  systems.
+With  the  rapid  development  of  technology, automobiles  have  become  an  essential  asset  in  our  day-to-day lives.  One  of  the  most  important  researches  are  *Traffic  Signs Recognition  (TSR)*  systems.
 
 This is a complete Traffic sign classification project using several deep learning models like : 
 1. Simple Baseline Deep CNN,
